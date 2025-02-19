@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mehmet Caner</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
-- 👨‍💻 All of my projects are available at [mehmetcaner.com](mehmetcaner.com)
+- 👨‍💻 All of my projects are available at [mehmetcaner.me](mehmetcaner.me)
 
 - 📫 How to reach me **İnstagram: @mehmetc4ner**
 
