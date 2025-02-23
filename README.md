@@ -7,7 +7,7 @@
 
 - ⚡ Fun fact **Body builder & frontend developer**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Social Media:</h3>
 <p align="left">
 <a href="https://instagram.com/mehmetc4ner" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mehmetc4ner" height="30" width="40" /></a>
 </p>
